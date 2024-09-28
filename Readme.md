@@ -1,7 +1,7 @@
-Suvam's Enhanced Mini Calendar App
+# Suvam's Enhanced Mini Calendar App
 This project is a mini calendar web application that displays the current date, day, month, and time. It includes a variety of interactive features such as month navigation, light/dark mode toggle, and event management.
 
-Features
+# Features
 
 1. Display Current Date, Day, and Time
    The application shows the current date, day of the week, and time in real-time.
@@ -67,13 +67,13 @@ Contains the structure of the mini calendar, including the calendar display, con
 # style.css
 Defines the styling for the calendar, theme toggle, and event list. Key features include:
 
-Light and dark themes.
+# Light and dark themes.
 Hover effects on the calendar and buttons.
 Responsive layout for different screen sizes.
 #  script.js
 Implements the logic for:
 
-Real-time date, day, and time display.
+# Real-time date, day, and time display.
 Light/dark mode switching.
 Month navigation.
 Event management (adding and saving events).
